@@ -30,7 +30,7 @@
 <section class="bg-white py-24 px-6" id="process">
   <div class="max-w-[1200px] mx-auto">
     <h2 class="text-[40px] leading-tight font-light text-gray-900 mb-16 max-w-[600px]">
-      Transform your property in four simple steps. Professional results, every time.
+      Your project in four simple steps. Professional results across all services.
     </h2>
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-16">

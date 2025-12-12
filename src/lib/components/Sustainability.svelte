@@ -15,17 +15,17 @@
 
       <div class="grid grid-cols-2 gap-8">
         <div class="bg-white/50 p-8 rounded-xl border border-white/60">
-          <div class="text-[40px] font-light mb-2">$0</div>
-          <p class="text-gray-500 text-xs uppercase tracking-wide mb-4">monthly fees</p>
+          <div class="text-[40px] font-light mb-2">6</div>
+          <p class="text-gray-500 text-xs uppercase tracking-wide mb-4">core services</p>
           <p class="text-gray-400 text-[10px] leading-relaxed">
-            No subscription costs. You own your system completely.
+            Comprehensive solutions from one trusted partner.
           </p>
         </div>
         <div class="bg-white/50 p-8 rounded-xl border border-white/60">
           <div class="text-[40px] font-light mb-2">10+</div>
           <p class="text-gray-500 text-xs uppercase tracking-wide mb-4">years experience</p>
           <p class="text-gray-400 text-[10px] leading-relaxed">
-            A decade of network infrastructure and security expertise.
+            A decade of technical and real estate expertise.
           </p>
         </div>
       </div>
@@ -76,7 +76,7 @@
          <div class="relative z-10 h-full flex flex-col justify-end">
             <h3 class="text-xl font-normal mb-2">Oklahoma focused</h3>
             <p class="text-white/80 text-xs leading-relaxed mb-4">
-            Local expertise serving Oklahoma homeowners and builders. We understand your market.
+            Local expertise serving Oklahoma businesses, agents, homeowners and builders. We understand your market.
             </p>
             <a href="#" class="text-xs font-medium flex items-center gap-1">Contact us -></a>
         </div>

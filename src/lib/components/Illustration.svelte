@@ -11,7 +11,7 @@
   <div class="absolute inset-0 flex items-center justify-center px-6">
     <div class="grid grid-cols-1 md:grid-cols-2 max-w-[1000px] w-full items-center gap-8">
       <div class="text-white text-[40px] font-light leading-tight mb-8 md:mb-0 pr-8">
-        Smart technology<br>meets real estate<br>expertise.
+        Technology,<br>media & real estate<br>expertise combined.
       </div>
       
       <div class="bg-[#f9f9f7] rounded-xl p-12 flex flex-col items-start justify-center text-left">
@@ -20,7 +20,7 @@
         </div>
         <h3 class="text-gray-900 text-2xl font-light mb-3">Founded by Yuvi & Bethany Rana</h3>
         <p class="text-gray-600 text-sm leading-relaxed">
-          A decade of network infrastructure expertise combined with real estate knowledge. We understand both the technology and the homes we transform.
+          A decade of network infrastructure and security expertise combined with real estate knowledge and creative media production. We deliver comprehensive solutions that work together seamlessly.
         </p>
       </div>
     </div>

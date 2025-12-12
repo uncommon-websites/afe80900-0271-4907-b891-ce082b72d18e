@@ -6,8 +6,8 @@
     <div>
       <h2 class="text-[40px] font-light text-gray-900 leading-tight mb-6">
         Serving Oklahoma.<br>
-        Custom pricing<br>
-        for your project.
+        Comprehensive solutions<br>
+        for your business.
       </h2>
       <a href="#consultation" class="text-primary-600 text-2xl font-light hover:text-primary-700 transition-colors flex items-center gap-2 mb-4">
         Get started ->
@@ -17,10 +17,10 @@
       </a>
     </div>
     
-    <div class="h-[300px] bg-white rounded-xl shadow-sm overflow-hidden border border-gray-100 flex items-center justify-center relative">
-        <img src="https://images.unsplash.com/photo-1558002038-1055907df827?q=80&w=2070&auto=format&fit=crop" class="h-[80%] object-contain" alt="Smart Home System" />
+    <div class="h-[300px] bg-white rounded-xl overflow-hidden border border-gray-100 flex items-center justify-center relative">
+        <img src="https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=2069&auto=format&fit=crop" class="h-[80%] object-contain" alt="Leios Consulting Services" />
         <div class="absolute bottom-4 right-4 bg-white border border-gray-200 rounded px-2 py-1 text-[10px] font-bold uppercase tracking-wider">
-            Smart Home Integration
+            Integrated Solutions
         </div>
     </div>
   </div>
@@ -28,30 +28,30 @@
   <!-- Footer Grid -->
   <div class="max-w-[1400px] mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mb-24">
     <div class="h-[300px] rounded-xl overflow-hidden relative group cursor-pointer">
-      <img src="https://images.unsplash.com/photo-1558002038-1055907df827?q=80&w=2069&auto=format&fit=crop" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" alt="Automation" />
+      <img src="https://images.unsplash.com/photo-1558002038-1055907df827?q=80&w=2069&auto=format&fit=crop" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" alt="Smart automation" />
       <div class="absolute inset-0 bg-black/30 p-6 flex items-start">
         <p class="text-white text-lg font-light">Smart automation.<br>Learn more -></p>
       </div>
     </div>
 
     <div class="h-[300px] rounded-xl overflow-hidden relative group cursor-pointer">
-      <img src="https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?q=80&w=2070&auto=format&fit=crop" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" alt="For builders" />
+      <img src="https://images.unsplash.com/photo-1542038784456-1ea8e935640e?q=80&w=2070&auto=format&fit=crop" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" alt="Photography services" />
       <div class="absolute inset-0 bg-black/30 p-6 flex items-start">
-        <p class="text-white text-lg font-light">For builders.<br>Partnership options -></p>
+        <p class="text-white text-lg font-light">Professional media.<br>View portfolio -></p>
       </div>
     </div>
 
     <div class="h-[300px] rounded-xl overflow-hidden relative group cursor-pointer">
-      <img src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?q=80&w=2070&auto=format&fit=crop" class="w-full h-full object-cover bg-white transition-transform duration-700 group-hover:scale-105" alt="Network" />
+      <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2015&auto=format&fit=crop" class="w-full h-full object-cover bg-white transition-transform duration-700 group-hover:scale-105" alt="Web development" />
       <div class="absolute inset-0 bg-black/20 p-6 flex items-start">
-        <p class="text-white text-lg font-light">Network optimization.<br>View services -></p>
+        <p class="text-white text-lg font-light">Web & social media.<br>Get started -></p>
       </div>
     </div>
 
     <div class="h-[300px] rounded-xl overflow-hidden relative group cursor-pointer">
-      <img src="https://images.unsplash.com/photo-1585128792020-803d29415281?q=80&w=2070&auto=format&fit=crop" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" alt="Media systems" />
+      <img src="https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=2073&auto=format&fit=crop" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" alt="Real estate" />
       <div class="absolute inset-0 bg-primary-600/80 p-6 flex items-start">
-        <p class="text-white text-lg font-light">Professional media.<br>Explore options -></p>
+        <p class="text-white text-lg font-light">Real estate services.<br>Connect with Yuvi -></p>
       </div>
     </div>
   </div>

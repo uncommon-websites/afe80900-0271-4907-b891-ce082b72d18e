@@ -32,16 +32,16 @@
     <!-- Testimonials -->
     <div class="grid grid-cols-1 md:grid-cols-3 gap-8 border-t border-gray-200 pt-12">
       <div class="col-span-1">
-        <h4 class="text-lg text-gray-900">What Oklahoma homeowners<br>are saying</h4>
+        <h4 class="text-lg text-gray-900">What Oklahoma clients<br>are saying</h4>
       </div>
       
       <div class="col-span-1">
-        <p class="text-gray-600 text-sm mb-2">"Yuvi's technical expertise made our smart home<br>integration seamless and stress-free."</p>
+        <p class="text-gray-600 text-sm mb-2">"From listing photos to smart home setup,<br>Leios handled everything perfectly."</p>
         <div class="flex text-gray-900 text-xs">★★★★★</div>
       </div>
 
       <div class="col-span-1">
-        <p class="text-gray-600 text-sm mb-2">"No subscription fees and everything works perfectly.<br>Best decision for our new home!"</p>
+        <p class="text-gray-600 text-sm mb-2">"Professional service across the board. Our website<br>and social media have never looked better!"</p>
         <div class="flex text-gray-900 text-xs">★★★★★</div>
       </div>
     </div>

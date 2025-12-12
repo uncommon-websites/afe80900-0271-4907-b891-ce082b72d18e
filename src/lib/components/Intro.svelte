@@ -9,22 +9,22 @@
         <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="text-primary-600"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
       </span>
       transforms<br>
-      properties into smart spaces<br>
-      through 
+      businesses and properties through 
       <span class="inline-flex items-center justify-center align-middle mx-1 bg-primary-50 rounded px-2 h-[50px] w-[60px]">
-        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="text-primary-600"><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="text-primary-600"><rect width="20" height="15" x="2" y="7" rx="2" ry="2"/><polyline points="17 2 12 7 7 2"/></svg>
       </span>
       integrated<br>
-      automation 
+      technology, 
       <span class="inline-flex items-center justify-center align-middle mx-1 bg-primary-50 rounded px-2 h-[50px] w-[80px]">
-        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="text-primary-600"><path d="M5 12.55a11 11 0 0 1 14.08 0"/><path d="M1.42 9a16 16 0 0 1 21.16 0"/><path d="M8.53 16.11a6 6 0 0 1 6.95 0"/><line x1="12" x2="12.01" y1="20" y2="20"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="text-primary-600"><rect width="18" height="18" x="3" y="3" rx="2"/><path d="M7 7h.01"/><path d="M17 7h.01"/><path d="M7 17h.01"/><path d="M17 17h.01"/></svg>
       </span>
-      & media systems.
+      professional media<br>
+      & real estate expertise.
     </h2>
 
     <p class="text-gray-500 text-xl font-light mb-4">
-      We handle everything, from design to installation.<br>
-      Serving Oklahoma homeowners and builders.
+      From smart home automation to commercial photography, web development to real estate services.<br>
+      Serving Oklahoma businesses, agents, homeowners, and builders.
     </p>
 
     <a href="#consultation" class="text-[13px] text-gray-400 hover:text-gray-600 transition-colors">

@@ -16,7 +16,7 @@
   </div>
   
   <div class="text-center mt-4">
-    <p class="text-gray-500 text-sm mb-4">Complete smart home integration <span class="text-gray-400">Automation • Network • Media</span></p>
+    <p class="text-gray-500 text-sm mb-4">Our work across services <span class="text-gray-400">Technology • Media • Real Estate</span></p>
     <div class="flex justify-center gap-2">
       <div class="w-1.5 h-1.5 rounded-full bg-gray-800"></div>
       <div class="w-1.5 h-1.5 rounded-full bg-gray-300"></div>
